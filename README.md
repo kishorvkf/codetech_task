@@ -3,7 +3,7 @@ COMPANY NAME : CODETECH IT SOLUTIONS .
 ID : ID:CT08DS2111 .
 DOMAIN : CYBER SECURITY & ETHICAL HACKING .
 DURATION : JUNE TO JULY 2024 .
-MENTOR : Muzammil .
+MENTOR : Muzammil 
 
 PROJECT REVIEW :
 The Password Checker project aims to enhance user security by evaluating the strength of passwords and providing instant feedback. This tool helps users create robust passwords, ensuring better protection against unauthorized access.
